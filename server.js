@@ -22,6 +22,51 @@ app.get("/products" ,(req, res) => {
                   id: 836643,
                   name: "Bisli",
                   price: 21
+            },
+            {
+                  id: 836643,
+                  name: "Bisli",
+                  price: 21
+            },
+            {
+                  id: 836643,
+                  name: "Bisli",
+                  price: 21
+            },
+            {
+                  id: 836643,
+                  name: "Bisli",
+                  price: 21
+            },
+            {
+                  id: 34082,
+                  name: "Bamba",
+                  price: 23
+            },
+            {
+                  id: 33452,
+                  name: "Tzips",
+                  price: 20
+            },
+            {
+                  id: 836643,
+                  name: "Bisli",
+                  price: 21
+            },
+            {
+                  id: 836643,
+                  name: "Bisli",
+                  price: 21
+            },
+            {
+                  id: 836643,
+                  name: "Bisli",
+                  price: 21
+            },
+            {
+                  id: 836643,
+                  name: "Bisli",
+                  price: 21
             }
       ]);
 });
